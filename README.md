@@ -47,17 +47,7 @@ ScienceAgentBench-annotation/
 
 Due to GitHub’s file size limits, large `.h5ad` and dataset files are hosted externally.  
 Full benchmark data and outputs are available here:  
-📦 [Google Drive Download Link](YOUR_LINK_HERE)
+ [Google Drive: SAB-application](https://drive.google.com/drive/u/0/folders/1EJxOHzQV4Oeh8n2Q-2BbdR4P31S36Mai)
 
----
-
-## 🧑‍💻 Author
-
-**Yankai Yang**  
-University of Wisconsin–Madison  
-📧 yang693@wisc.edu  
-🔗 [GitHub Profile](https://github.com/yankyang)
-
----
 
 *This repository documents my hands-on contribution to the ScienceAgentBench benchmark and AutoSDT auto-annotation framework, focusing on reproducibility, correctness, and scientific AI evaluation.*
