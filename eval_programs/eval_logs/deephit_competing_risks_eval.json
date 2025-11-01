@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "metrics_match": true,
+  "metric_diffs": {
+    "concordance_td": 0.0
+  },
+  "cif_pass": true,
+  "cif_score": 100.0,
+  "cif_response": [
+    "The first figure and the second figure are identical in every aspect, including the data points, axes, labels, and legend. There is no discernible difference between the two plots, indicating that the generated plot perfectly matches the ground truth.\n\n[FINAL SCORE]: 100",
+    "The first figure and the second figure are identical in every aspect, including the data points, axes, labels, legend, and overall structure. There is no discrepancy between the generated plot and the ground truth.\n\n[FINAL SCORE]: 100",
+    "The first figure and the second figure are identical in every aspect, including the data points, axes, labels, and legend. There is no discernible difference between the two plots.\n\n[FINAL SCORE]: 100"
+  ],
+  "gold_csv_exists": true,
+  "all_passed": true
+}
